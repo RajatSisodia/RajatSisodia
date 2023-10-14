@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajat sisodia
+- 👋 Hi, I’m rajat sisodia
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning
 - 📫 Reach me on my mail :- 
