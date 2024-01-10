@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajat Sisodia</h1>
 <h3 align="center">A Computer Science Engineering Student</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblg4M2hBM05YQWdOOVVSSUtVdzRaYnFxLVZ3QXxBQ3Jtc0tud1Y2VHBIcC16TXpkdXRzcW1MXzhQMVVSUlBIa3pfM2hOMDY4c3pLSzV4NUpwRl84eFN6YWhia3ItQ0NrZ1A4c0sxLVRtdnlybWE3TlJJa0VIQ2dSOWVDZXZwTkRfQ1dxdzQxcUZvSEZzT2lQMXBQMA&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=23021311&label=Profile%20views&color=0e75b6&style=flat" alt="23021311" /> </p>
 
