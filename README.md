@@ -1,9 +1,18 @@
-- 👋 Hi, I’m rajat sisodia
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning
-- 📫 Reach me on my mail :- 
-- rajatsisodia1743@gmail.com
-<!---
-23021311/23021311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋, I'm Rajat Sisodia</h1>
+<h3 align="center">A Computer Science Engineering Student</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=23021311&label=Profile%20views&color=0e75b6&style=flat" alt="23021311" /> </p>
+
+- 📫 How to reach me **rajatsisodia1743gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/@thakur_rajat_sisodia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@thakur_rajat_sisodia" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=23021311&show_icons=true&locale=en&layout=compact" alt="23021311" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=23021311&" alt="23021311" /></p>
