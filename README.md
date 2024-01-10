@@ -1,3 +1,4 @@
+![logo](https://github.com/23021311/23021311/blob/main/Blue%20Tosca%20Geometric%20Technology%20Linkedln%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rajat Sisodia</h1>
 <h3 align="center">A Computer Science Engineering Student</h3>
 
