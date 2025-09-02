@@ -1,20 +1,49 @@
-![logo](https://github.com/23021311/23021311/blob/main/Blue%20Tosca%20Geometric%20Technology%20Linkedln%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rajat Sisodia</h1>
-<h3 align="center">A Computer Science Engineering Student</h3>
+<h3 align="center">A Passionate Computer Science Engineering Student</h3>
 
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=23021311&label=Profile%20views&color=0e75b6&style=flat" alt="23021311" /> </p>
+- 🌱 Currently learning **Data Structures & Algorithms, Machine Learning, and Web Development**  
+- 💡 Interested in **Software Development, Cybersecurity, and Cloud Technologies**  
+- 📫 Reach me at **rajatsisodia1743@gmail.com**  
+- ⚡ Fun fact: I love solving coding challenges (300+ problems on LeetCode)
 
+---
 
-- 📫 Reach me on:- **rajatsisodia1743gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with me:
 <p align="left">
-<a href="https://instagram.com/thakur_rajat_sisodia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@thakur_rajat_sisodia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rajatsisodia/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://www.instagram.com/yourusername/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+<a href="mailto:rajatsisodia1743@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=23021311&" alt="23021311" /></p>
+### 🛠️ Languages and Tools:
+<p align="left"> 
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>  
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>  
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RajatSisodia&show_icons=true&theme=radical" alt="github stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajatSisodia&layout=compact&theme=radical" alt="top langs" height="150"/>
+</p>
+
+---
+
+### 🏆 Achievements:
+- Finalist in **Smart India Hackathon 2024**
+- **3rd Place** in Capture the Flag (CTF) at Grafest
+- Solved **300+ problems** on LeetCode  
